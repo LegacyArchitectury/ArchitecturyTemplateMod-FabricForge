@@ -1,0 +1,1 @@
+# ArchitecturyTemplateMod-FabricForge
